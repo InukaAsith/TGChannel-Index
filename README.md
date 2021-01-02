@@ -63,18 +63,4 @@ This is the general format, change the values of corresponding fields as your re
 python3 -m app
 ```
 
-## API
 
-Here's the api description. [API](https://github.com/odysseusmax/tg-index/wiki/API)
-
-## Contributions
-
-Contributions are welcome.
-
-## Contact
-
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
-
-## License
-
-Code released under [The GNU General Public License](LICENSE).
