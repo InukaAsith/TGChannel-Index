@@ -1,4 +1,5 @@
-RUN apt-get update && apt upgrade -y && apt-get install sudo -y
+RUN apt-get update && apt upgrade -y && apt-get install sudo -y\
+  python3 
 RUN pip3 install virtualenv
 RUN virtualenv venv
 RUN source venv/bin/activate
